@@ -21,5 +21,12 @@ Took the total features up to 28 in initial model
 Random Forest
 Neural Network
 
+# Instructions
+Go through each code block one by one. If you go back and try and run previous model blocks it may mess up the current ones or ones in the future.
+It's best if you go from top to bottom one cell at a time.
+
+# Insights
+The neural networks outperformed the random forests overall. They had higher accuracy with faster runtime. The models without imputations slightly outperformed the ones with imputations. You'll see these results further when you run the file.
+
 # Final README Note
 Now your good to go with the file. I hope you enjoy the ouputs and insights!
