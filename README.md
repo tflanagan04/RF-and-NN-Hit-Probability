@@ -28,5 +28,8 @@ It's best if you go from top to bottom one cell at a time.
 # Insights
 The neural networks outperformed the random forests overall. They had higher accuracy with faster runtime. The models without imputations slightly outperformed the ones with imputations. You'll see these results further when you run the file.
 
+# Recommendations
+For scouting or player evaluation, the three features that were consistently in the most important were launch angle, hit location, and hit distance. So, when looking at potential prospects, seeing whose success is more weighted on those three factors would in theory make them more projectible with a higher probability of success.
+
 # Final README Note
 Now your good to go with the file. I hope you enjoy the ouputs and insights!
